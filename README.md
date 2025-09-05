@@ -16,11 +16,9 @@ I'm a passionate student and Full Stack Developer specializing in the **MERN Sta
 ## 🚀 Featured Projects
 
 - [**ChatApplication**](https://github.com/AbhaySingh-33/chatApplication): Real-time chat app built with Socket.IO, React, and Node.js.
-- **BlogApplication**: (Add your repo link here if available) A platform for sharing and managing blogs.
+- [**BlogApplication**:](https://github.com/AbhaySingh-33/Blog-Application.git): A platform for sharing and managing blogs.
 - [**Meet-AI**](https://github.com/AbhaySingh-33/Meet-AI)
 - [**Cloudinary-Saas**](https://github.com/AbhaySingh-33/Cloudinary-Saas)
-- [**React-Router**](https://github.com/AbhaySingh-33/React-Router)
-- [**Password-Generator**](https://github.com/AbhaySingh-33/Password-Generator)
 
 ## 🌟 GitHub Stats
 
