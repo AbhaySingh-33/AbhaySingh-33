@@ -24,7 +24,6 @@ const abhay = {
         university: "Parul University",
         institute: "Parul Institute of Technology",
         degree: "BTech - Computer Science and Engineering",
-        cgpa: "8.77/10 ⭐",
         duration: "Aug 2023 – May 2027"
     },
     currentFocus: ["Full Stack Development", "Microservices", "Cloud Architecture"],
